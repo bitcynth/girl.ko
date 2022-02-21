@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!Makefile
+!girl.c
+!README.md
+!LICENSE
